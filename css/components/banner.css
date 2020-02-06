@@ -1,0 +1,6 @@
+.banner {
+  color: white;
+  display: flex;
+  align-items: center;
+  min-height: 50vh;
+}
